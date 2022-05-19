@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'ce195e33beb2c8ed63e3f24448fd56e6c901f13d',
         'name' => 'davisousa29/ecommerce',
         'dev' => true,
     ),
     'versions' => array(
         'davisousa29/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'ce195e33beb2c8ed63e3f24448fd56e6c901f13d',
             'dev_requirement' => false,
         ),
         'phpmailer/phpmailer' => array(
