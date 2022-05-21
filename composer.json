@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\davisousa29\\php-classes\\src"
+            "Hcode\\": "vendor\\davisousa29\\php-classes\\src"
         }
     }
 }
